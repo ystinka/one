@@ -1,9 +1,13 @@
-<style>
-
 body, html {
 width:1080px;
 margin: 50px auto; 
 }
 
-</style>
+p {
+  color:green;
+  margin-bottom:15px;
+}
 
+a {
+  color: red;
+}
